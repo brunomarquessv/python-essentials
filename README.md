@@ -143,7 +143,7 @@ This course introduces fundamental concepts of computer programming. We explore 
 
 ## Part III: Final Project - Chess Game Development Using SOLID Principles
 
-## Project Overview
+### Project Overview
 This final project series dives deep into the application of SOLID principles in a practical object-oriented programming project: building a Chess game. We will provide not only the foundational aspects of the SOLID principles but also how to apply them in a complex software development project.
 
 ### Lecture 32: Introduction and Setup
