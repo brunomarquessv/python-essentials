@@ -5,110 +5,110 @@ This course introduces fundamental concepts of computer programming. We explore 
 
 ## Part I: Python Fundamentals
 
-### Lecture 1: Introduction
+### - [ ] Lecture 1: Introduction
 - Overview of the course
 - Setting up the programming environment
 - Introduction to Python
 
-### Lecture 2: Strings, Input/Output, Branching
+### - [ ] Lecture 2: Strings, Input/Output, Branching
 - Working with strings
 - Reading from and writing to files
 - Conditional statements
 
-### Lecture 3: Iteration
+### - [ ] Lecture 3: Iteration
 - While loops and for loops
 - Iterating through data structures
 
-### Lecture 4: Loops over Strings, Guess-and-Check, Binary
+### - [ ] Lecture 4: Loops over Strings, Guess-and-Check, Binary
 - Advanced loop constructs
 - Problem-solving using the guess-and-check method
 - Binary numbers and operations
 
-### Lecture 5: Floats and Approximation Methods
+### - [ ] Lecture 5: Floats and Approximation Methods
 - Representation of floating-point numbers
 - Techniques for numerical approximation
 
-### Lecture 6: Bisection Search
+### - [ ] Lecture 6: Bisection Search
 - Implementing bisection search algorithm
 - Applications of bisection search
 
-### Lecture 7: Decomposition, Abstraction, Functions
+### - [x] Lecture 7: Decomposition, Abstraction, Functions
 - Principles of decomposition and abstraction
 - Defining and using functions
 
-### Lecture 8: Functions as Objects
+### - [ ] Lecture 8: Functions as Objects
 - Functions as first-class objects
 - Higher-order functions
 
-### Lecture 9: Lambda Functions, Tuples, and Lists
+### - [ ] Lecture 9: Lambda Functions, Tuples, and Lists
 - Using lambda expressions
 - Introduction to tuples and lists
 
-### Lecture 10: Lists, Mutability
+### - [ ] Lecture 10: Lists, Mutability
 - Detailed exploration of lists
 - Mutability and side effects
 
-### Lecture 11: Aliasing, Cloning
+### - [ ] Lecture 11: Aliasing, Cloning
 - Concepts of aliasing and cloning lists
 - Avoiding common pitfalls with mutability
 
-### Lecture 12: List Comprehension, Functions as Objects, Testing, Debugging
+### - [ ] Lecture 12: List Comprehension, Functions as Objects, Testing, Debugging
 - Advanced list operations
 - Techniques for testing and debugging
 
-### Lecture 13: Exceptions, Assertions
+### - [ ] Lecture 13: Exceptions, Assertions
 - Handling errors and exceptions
 - Using assertions to ensure correct behavior
 
-### Lecture 14: Dictionaries
+### - [ ] Lecture 14: Dictionaries
 - Introduction to dictionaries
 - Applications of dictionaries in data handling
 
-### Lecture 15: Recursion
+### - [ ] Lecture 15: Recursion
 - Understanding recursion
 - Recursive programming examples
 
-### Lecture 16: Recursion on Non-Numerics
+### - [ ] Lecture 16: Recursion on Non-Numerics
 - Applying recursion to various data types
 - Complex recursive algorithms
 
-### Lecture 17: Python Classes
+### - [x] Lecture 17: Python Classes
 - Introduction to classes and objects
 - Defining and using classes in Python
 
-### Lecture 18: More Python Class Methods
+### - [ ] Lecture 18: More Python Class Methods
 - Advanced methods in classes
 - Special class operations
 
-### Lecture 19: Inheritance
+### - [ ] Lecture 19: Inheritance
 - Understanding inheritance
 - Building extensible and maintainable code
 
-### Lecture 20: Fitness Tracker Object-Oriented Programming Example
+### - [ ] Lecture 20: Fitness Tracker Object-Oriented Programming Example
 - Case study: Building a fitness tracker
 - Object-oriented design and implementation
 
-### Lecture 21: Timing Programs, Counting Operations
+### - [ ] Lecture 21: Timing Programs, Counting Operations
 - Techniques for measuring program performance
 - Analyzing computational complexity
 
-### Lecture 22: Big Oh and Theta
+### - [ ] Lecture 22: Big Oh and Theta
 - Theoretical foundations of algorithm analysis
 - Big O and Theta notations
 
-### Lecture 23: Complexity Classes Examples
+#### - [ ] Lecture 23: Complexity Classes Examples
 - Exploring different complexity classes
 - Examples and case studies
 
-### Lecture 24: Sorting Algorithms
+### - [ ] Lecture 24: Sorting Algorithms
 - Overview of common sorting algorithms
 - Implementing and comparing sorting techniques
 
-### Lecture 25: Plotting
+### - [ ] Lecture 25: Plotting
 - Visualizing data using Python
 - Graphs and plots for data analysis
 
-### Lecture 26: List Access, Hashing, Simulations, and Wrap-Up
+### - [ ] Lecture 26: List Access, Hashing, Simulations, and Wrap-Up
 - Advanced data access techniques
 - Introduction to hashing
 - Using simulations to solve complex problems
