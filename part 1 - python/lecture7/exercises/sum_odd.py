@@ -6,7 +6,6 @@ def sum_odd(a, b):
     for i in range(a, b+1):
         if i%2!=0:
             sum_of_odds += i
-
     return sum_of_odds
  
 print(sum_odd(2, 7))
