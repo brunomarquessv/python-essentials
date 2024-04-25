@@ -36,7 +36,7 @@ This course introduces fundamental concepts of computer programming. We explore 
 - Principles of decomposition and abstraction
 - Defining and using functions
 
-### - [ ] Lecture 8: Functions as Objects
+### - [x] Lecture 8: Functions as Objects
 - Functions as first-class objects
 - Higher-order functions
 
