@@ -76,7 +76,7 @@ This course introduces fundamental concepts of computer programming. We explore 
 - Introduction to classes and objects
 - Defining and using classes in Python
 
-### - [ ] Lecture 18: More Python Class Methods
+### - [x] Lecture 18: More Python Class Methods
 - Advanced methods in classes
 - Special class operations
 
