@@ -282,7 +282,7 @@ class Fraction(object):
         if self.denom == 0:
             return None
         elif self.denom == 1:
-            # modify this
+            # alterado por mim
             return Fraction(self.num, 1)
         else:
             greatest_common_divisor = gcd(self.num, self.denom)
@@ -319,8 +319,8 @@ class Circle(object):
         else:
             raise ValueError
 
-# center = Coordinate(2, 2)
-# my_circle = Circle(center, 2)   # no error
+center = Coordinate(2, 2)
+my_circle = Circle(center, 2)   # no error
 
 # my_circle = Circle(2, 2)    # raises ValueError
 # my_circle = Circle(center, 'two')  # raises ValueError
