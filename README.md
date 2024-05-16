@@ -40,7 +40,7 @@ This course introduces fundamental concepts of computer programming. We explore 
 - Functions as first-class objects
 - Higher-order functions
 
-### - [ ] Lecture 9: Lambda Functions, Tuples, and Lists
+### - [x] Lecture 9: Lambda Functions, Tuples, and Lists
 - Using lambda expressions
 - Introduction to tuples and lists
 
@@ -80,7 +80,7 @@ This course introduces fundamental concepts of computer programming. We explore 
 - Advanced methods in classes
 - Special class operations
 
-### - [ ] Lecture 19: Inheritance
+### - [x] Lecture 19: Inheritance
 - Understanding inheritance
 - Building extensible and maintainable code
 
