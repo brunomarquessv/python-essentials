@@ -150,9 +150,15 @@ def sum_and_prod(L):
     sum of all elements in L and the second value 
     is the product of all elements in L 
     """
-    # your code here
+    # meu codigo
+    
+    sum_of_all, prod_of_all = 0, 1
+    for sum in L:
+        sum_of_all += sum
+        prod_of_all *= sum
+    
+    return (sum_of_all, prod_of_all)
 
- 
 
 # print(sum_and_prod([4,6,2,5]))   # prints (17, 240)
 
@@ -220,7 +226,14 @@ def max_of_both(n, f1, f2):
     Applies f1 and f2 on all numbers between 0 and n (inclusive). 
     Returns the maximum value of all these results.
     """
-    # your code here
+    maxval = f1(0)
+    for i in range(n+1):
+        if f1(i) > maxval:
+            maxval = f1(i)
+        if f2(i) > maxval:
+            maxval = f2(i)
+    return maxval
+
 
 # print(max_of_both(2, lambda x:x-1, lambda x:x+1))  # prints 3
 # print(max_of_both(10, lambda x:x*2, lambda x:x/2))  # prints 20
@@ -230,8 +243,18 @@ def sublist_sum(L):
     """ L is a list whose elements are lists with int elements
     Returns the sum of all int elements. """
     # your code here
+    
+    fs, ss = 0, 0
+    for i in L[0]:
+        fs += i
 
-# print(sublist_sum([[1,2], [4,5,6]])) # prints 18
+    for j in L[1]:    
+        ss += j
+
+    return (fs+ss)
+
+
+print(sublist_sum([[1,2], [4,5,6]])) # prints 18
 
 
 #############################################
