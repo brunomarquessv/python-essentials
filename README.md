@@ -16,8 +16,8 @@ This course introduces fundamental concepts of computer programming. We explore 
 | - [x] **Lecture 7: Decomposition, Abstraction, Functions** | - Principles of decomposition and abstraction <br> - Defining and using functions |
 | - [x] **Lecture 8: Functions as Objects** | - Functions as first-class objects <br> - Higher-order functions |
 | - [x] **Lecture 9: Lambda Functions, Tuples, and Lists** | - Using lambda expressions <br> - Introduction to tuples and lists |
-| - [ ] **Lecture 10: Lists, Mutability** | - Detailed exploration of lists <br> - Mutability and side effects |
-| - [ ] **Lecture 11: Aliasing, Cloning** | - Concepts of aliasing and cloning lists <br> - Avoiding common pitfalls with mutability |
+| - [x] **Lecture 10: Lists, Mutability** | - Detailed exploration of lists <br> - Mutability and side effects |
+| - [x] **Lecture 11: Aliasing, Cloning** | - Concepts of aliasing and cloning lists <br> - Avoiding common pitfalls with mutability |
 | - [ ] **Lecture 12: List Comprehension, Functions as Objects, Testing, Debugging** | - Advanced list operations <br> - Techniques for testing and debugging |
 | - [ ] **Lecture 13: Exceptions, Assertions** | - Handling errors and exceptions <br> - Using assertions to ensure correct behavior |
 | - [ ] **Lecture 14: Dictionaries** | - Introduction to dictionaries <br> - Applications of dictionaries in data handling |
