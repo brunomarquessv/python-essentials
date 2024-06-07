@@ -1,11 +1,13 @@
-# Software Engineering Fundamentals with Python
+# Python Essentials 
 
-## Course Description
+## Material Description 
 This course introduces fundamental concepts of computer programming. We explore various topics including data structures, algorithms, and object-oriented programming using Python. Each lecture builds upon the previous ones, culminating in a comprehensive understanding of basic programming principles suitable for further study in computer science.
+<br><br>
+**This material is based on the course: 6,100L | Fall 2022 | Undergraduate Introduction To CS And Programming Using Python from MIT**
 
-## Part I: Python Fundamentals
+## Python Fundamentals
 
-| **Palestra** | **Descrição** |
+| **Lecture** | **Description** |
 |--------------|---------------|
 | - [ ] **Lecture 1: Introduction** | - Overview of the course <br> - Setting up the programming environment <br> - Introduction to Python |
 | - [ ] **Lecture 2: Strings, Input/Output, Branching** | - Working with strings <br> - Reading from and writing to files <br> - Conditional statements |
