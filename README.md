@@ -3,7 +3,8 @@
 ## Material Description 
 This course introduces fundamental concepts of computer programming. We explore various topics including data structures, algorithms, and object-oriented programming using Python. Each lecture builds upon the previous ones, culminating in a comprehensive understanding of basic programming principles suitable for further study in computer science.
 <br><br>
-**This material is based on the course: [https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/](6,100L | Fall 2022 | Undergraduate Introduction To CS And Programming Using Python) from MITT**
+**This material is based on the course: [6,100L | Fall 2022 | Undergraduate Introduction To CS And Programming Using Python](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/) from MIT**
+
 
 ## Python Fundamentals
 
